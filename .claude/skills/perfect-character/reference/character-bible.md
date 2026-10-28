@@ -22,6 +22,11 @@
   - Cream = the whole range; butter yellow and peach = neutral days
 - **Always:** delicate thin gold necklace is optional; nothing revealing; no logos except Ameri-Vita products added by edit
 
+## Other fixed IDs
+- **Master portrait source image:** media_input `0198679e-0c40-4b5c-b1a9-d5b7eed88406` (Element v1 `7811391d-526a-4bd2-a6ab-d02aab51c43a`; its stored description says "bob" and "hazel-brown", but the image shows shoulder-length hair and hazel-green eyes: follow the image)
+- **Approved base frames:** car lavender `86f0f81d-e800-46a6-9c09-c0b131e27235`; car purple `06981bf4-24a8-4a05-b871-b7c0f2ea4518`
+- **Sister character Model B:** Element `8901f660-a9fa-49f5-ad1d-d64b05498b2c`, from Soul V2 job `f829a449-b03a-40eb-9154-595c5fea663a`, seed 927317. Never mix her Element into an Ellie prompt
+
 ## Voice (for captions and dialogue)
 - British English, warm and dry, a little self-deprecating; short sentences
 - Talks like a friend sending a voice note, not like an advert
@@ -31,7 +36,7 @@
 ## Never changes
 - Her face, eye colour, freckles, hair colour, length and parting, age and build
 - Phone-photo capture style (no studio, no editorial DSLR look, no camera-aware posing)
-- AI disclosure: AI label on every post; bio says "AI-generated character created by Ameri-Vita"
+- AI disclosure: tick Meta's AI disclosure on every upload; bio says "AI-generated character created by Ameri-Vita"
 - No first-person health results, before/after framing, reviews or endorsements in her voice
-- Health claims only from the approved GB claims list; new claims checked before posting
+- Health claims only from the approved GB claims list in the Iron Gummies creator brief; new claims checked by Gabi or Karen before posting
 - "Ad" at the start of any caption with a product in shot
